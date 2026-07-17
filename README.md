@@ -80,24 +80,23 @@ https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ### Monthly Unemployment Trend
 
-![Monthly Trend](.png)
+![Monthly Trend](monthly_trend.png)
 
 ### Covid-19 Impact Analysis
 
-![Covid Analysis](.png)
+![Covid Analysis](covid_impact.png)
 
 ### Top 10 States with Highest Unemployment
 
-![Top States](.png)
+![Top States](top10_states.png)
 
 
 ## 📓 Notebook
-
-**Unemployment_Analysis.ipynb**
+https://github.com/priya666rout-lab/codeAlpha_Unemployment-Analysis-with-Python/blob/main/unemployment.ipynb
 
 ## 🚀 Repository
 
